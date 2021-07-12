@@ -1,11 +1,11 @@
-### Application Desktop pour la Gestion des Ressources Humaines réaliser en Java par la bibliothèque d'interface JavaFX .
+### Desktop application for Human Resources Management realized in Java by the JavaFX interface library .
 
-#### Elle permet de faciliter les procédures de 3 fonctions essentielles des ressources humaines :
-1. Gestion de recrutement
-1. Gestion de planning
-1. Gestion de compétences (évaluation des compétences)
+#### It facilitates the procedures of 3 essential human resources functions :
+1. Recruitment management
+1. Planning management
+1. Competency management (competency assessment)
 
-#### Technologies utilisés :
+#### Technologies used :
 1. Lombok
 1. JFoenix
 1. SQLite JDBC
